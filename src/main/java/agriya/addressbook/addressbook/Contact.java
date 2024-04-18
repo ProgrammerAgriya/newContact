@@ -22,6 +22,7 @@ public class Contact {
         this.emailAddress = emailAddress;
     }
 
+
     public Contact() {
     }
 
